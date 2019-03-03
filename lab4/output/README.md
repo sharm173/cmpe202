@@ -47,3 +47,6 @@ Knows if it’s available
 Collaborators: 
 
 Manager
+
+
+I chose states pattern, because it would be easy to keep track of table availability (by using states isAvailable/isTaken)
